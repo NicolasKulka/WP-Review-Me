@@ -11,6 +11,12 @@
       "role": "Lead Developer"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/NicolasKulka/WP-Dismissible-Notices-Handler"
+    }
+  ],
   "require": {
     "php": ">=5.5.0",
     "NicolasKulka/wp-dismissible-notices-handler": "1.*"
